@@ -13,11 +13,11 @@
 
     <modules>
         <module>common/config-server</module>
+        
         <module>common/eureka-server</module>
 
         <module>lab-1/boot-solution</module>
-		
-		<module>lab-2/clouddemo</module>
+        <module>lab-2/clouddemo</module>
         
         <module>lab-3/client-solution</module>
         <module>lab-3/server-solution</module>
@@ -44,9 +44,8 @@
    
         <module>lab-9/spring-boot-zuulgatwayproxy</module>
         <module>lab-9/spring-boot-zuulgatwayproxy-student-service</module>
-		
-		
-		<module>lab-10/client-solution</module>
+
+        <module>lab-10/client-solution</module>
         <module>lab-10/config-server-solution</module>
 
     </modules>
